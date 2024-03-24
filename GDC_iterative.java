@@ -1,5 +1,6 @@
 import java.util.*;
 
+// made by Abyan
 public class GDC {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
